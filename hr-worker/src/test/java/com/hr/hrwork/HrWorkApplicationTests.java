@@ -1,13 +1,13 @@
-package com.hr.hrworker;
+package com.hr.hrwork;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class HrWorkerApplicationTests {
+class HrWorkApplicationTests {
 
-	@Test
-	void contextLoads() {
-	}
+    @Test
+    void contextLoads() {
+    }
 
 }
